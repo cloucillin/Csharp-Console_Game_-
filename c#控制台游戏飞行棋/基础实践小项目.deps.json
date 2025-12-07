@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "基础实践小项目/1.0.0": {
+        "runtime": {
+          "基础实践小项目.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "基础实践小项目/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
