@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "基础实践小项目": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
